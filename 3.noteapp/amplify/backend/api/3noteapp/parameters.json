@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "3noteapp",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
